@@ -14,10 +14,11 @@ python game.py
 
 ## 架構
 ```text
-GameObject.py
-Controller.py
-enemy.png
-player.png
+|-game.py
+|-GameObject.py
+|-Controller.py
+|-enemy.png
+|-player.png
 
 ```
 
