@@ -9,7 +9,7 @@ python == Python 3.9.0
 
 ##  執行方式
 ```text
-python Controller.py
+python game.py
 ```
 
 ## 架構
